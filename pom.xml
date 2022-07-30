@@ -14,7 +14,7 @@
 	<name>portfolio</name>
 	<description>Backend portfolio para Argentina Programa</description>
 	<properties>
-		<java.version>18</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

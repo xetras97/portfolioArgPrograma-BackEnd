@@ -30,7 +30,7 @@ import org.springframework.web.bind.annotation.RestController;
  *
  * @author Esti
  */
-
+@CrossOrigin(origins = "https://portfolioargprograma.web.app")
 @RestController
 public class Controller {
     
